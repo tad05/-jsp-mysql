@@ -39,7 +39,6 @@
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
 				<li class="active"><a href="main.jsp">메인</a></li>
-				<li><a href="A+.jsp">조원 소개</a></li>
 				<li><a href="voting.jsp">투표</a></li>
 				<li><a href="endVoting.jsp">투표결과</a></li>
 			</ul>
