@@ -89,19 +89,7 @@
 			%>
 		</div>
 	</nav>
-	<div class="container-fluid text-center" id= "bg-main">
-		<p class="text-left" style="font-family:Black Han Sans; font-size:5em;">편하게</p>
-		<dl class="dl-horizontal" id="img_full">
- 			<dt>
- 			<img src="jspimg/jbu.jpg" class="img-circle" id="img_profile">
-			</dt>
- 			 <dd>
- 			 <p>투표 시스템을 구축하고 웹으로 손쉽게 투표를 할 수 있는 투표 방식을 ‘REV(Remote internet E-Voting) 방식’이라고 하는데
- 			 여기에 블록체인을 결합하여 투표 내용을 저장하고 해시함수를 이용해 위조, 변조 불가능한 상태로 저장해 신뢰성 있는 웹을 만드는 것이 목표이다.</p>
- 			 </dd>
-		</dl>	 
-		<p class="text-left" style="font-family:Black Han Sans; font-size:5em; padding-top:10px;">투표하자</p>
-	 </div>
+	
 	 <div class="contaniner-fluid text-center bg-sub">
 	 <p class="h3">Twice</p> 
 	 </div>
